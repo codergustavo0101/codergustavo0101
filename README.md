@@ -6,7 +6,7 @@ Me chamo Gustavo Henrique, tenho 23 anos e sou natural de São Paulo.
 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios na área de desenvolvimento de sistemas.
 
 <p align="left">
- 
+   <a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
