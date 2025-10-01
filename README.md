@@ -6,7 +6,7 @@ Me chamo Gustavo Henrique, tenho 23 anos e sou natural de São Paulo.
 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios na área de desenvolvimento de sistemas.
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/codergustavo0101?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
