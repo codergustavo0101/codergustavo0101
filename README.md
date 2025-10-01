@@ -13,13 +13,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e de
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+ <a href="https://www.linkedin.com/in/gustavo-henrique-b51892300/" target="_blank" title="Meu LinkedIn">
+    <img 
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+        alt="LinkedIn" 
+        width="40" 
+        height="40"
+    />
+</a>
 </p>
 
 ---
