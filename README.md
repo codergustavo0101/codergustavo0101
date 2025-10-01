@@ -1,5 +1,6 @@
 ## 👋 Olá, me chamo Gustavo!
 
+Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e por transformar ideias em soluções digitais.
 
 
 <div style="display: inline_block"><br>
