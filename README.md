@@ -6,13 +6,7 @@ Me chamo Gustavo Henrique, tenho 23 anos e sou natural de São Paulo.
 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios na área de desenvolvimento de sistemas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+ 
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
