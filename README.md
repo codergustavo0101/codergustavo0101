@@ -1,7 +1,8 @@
 ## 👋 Olá, me chamo Gustavo!
 
-Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e por transformar ideias em soluções digitais.
+Meu nome é **Gustavo**, tenho **23 anos** e moro em **São Paulo - Brasil**.  
 
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e por criar soluções digitais que realmente fazem a diferença.  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
